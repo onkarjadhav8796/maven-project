@@ -6,7 +6,7 @@ pipeline
 		stages {
 				stage ('scm checkout') {
 					steps {
-						git 'https://github.com/sumitasarade/maven-project.git'
+						git 'https://github.com/onkarjadhav8796/maven-project.git'
 					}
 				}
 
